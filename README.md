@@ -3,7 +3,8 @@
 My name is Jonathan Mainguy and I'm a Site Reliability Engineer. I'm from Garner North Carolina, and currently working at Bandwidth. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) : I run Fedora for my workstation, and I prefer managing RHEL and its clones for servers. I do run a debian server for limited ram environments.
+
 ![](https://img.shields.io/badge/Editor-Vi-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -13,8 +14,6 @@ My name is Jonathan Mainguy and I'm a Site Reliability Engineer. I'm from Garner
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jmainguy" frameborder="0"></iframe>
 
 <a href="https://github.com/Jmainguy/Jmainguy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jmainguy&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="Jonathan's GitHub Stats" />
