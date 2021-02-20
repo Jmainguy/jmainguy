@@ -15,25 +15,23 @@ I code everything I do in vi. I enjoy the portability of it, and the ability to 
 
 I mainly code in golang these days, I really love the language and knowing that once I compile the binary, I can port it everywhere with ease.
 
-A project I wrote that I am quite proud of.
-
-My opensource profile website. <a href="https://soh.re">soh.re</a> which is a interactive shell session, driven by docker containers and a custom golang router.
+One example of my golang code would be - My opensource profile website. <a href="https://soh.re">soh.re</a> which is a interactive shell session, driven by docker containers and a custom golang router.
 
 <a href="https://github.com/Jmainguy/soh.re">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=soh.re&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-I learned python as my first "real" language with the help of the Ansible community. 
-
-I learned by contributing to the project and receiving feedback from the amazing developers there. 
+I learned python as my first "real" language with the help of the Ansible community. I learned by contributing to the project and receiving feedback from the amazing developers there. 
 
 I project I wrote in python that I am particularly fond of is bak. A way to bak files up on a local filesystem.
 
 <a href="https://github.com/Jmainguy/bak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=bak&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
