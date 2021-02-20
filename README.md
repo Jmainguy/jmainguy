@@ -38,7 +38,11 @@ I project I wrote in python that I am particularly fond of is bak. A way to bak 
 ### Bash
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-Bash was my first love, and I coded a great many scripts in it over the years. 
+Bash was my first love, and I coded a great many scripts in it over the years. My most popular github repo was mainly written in bash to manage minecraft mods for customers.
+
+<a href="https://github.com/Standouthost/multicraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Standouthost&repo=multicraft&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ### Docker
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
