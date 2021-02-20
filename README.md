@@ -17,7 +17,7 @@ My name is Jonathan Mainguy and I'm a Site Reliability Engineer. I'm from Garner
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jmainguy" frameborder="0"></iframe>
 
 <a href="https://github.com/Jmainguy/Jmainguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jmainguy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jmainguy&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="Jonathan's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Jmainguy/k8sCapcity">
