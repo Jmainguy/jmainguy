@@ -15,7 +15,7 @@ My name is Jonathan Mainguy and I'm a Site Reliability Engineer. I'm from Garner
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Jmainguy/Jmainguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmainguy&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmainguy&hide=html,php,lua,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Jmainguy/Jmainguy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jmainguy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
