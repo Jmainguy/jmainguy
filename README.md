@@ -29,21 +29,18 @@ My name is Jonathan Mainguy and I'm a Site Reliability Engineer. I'm from Garner
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=certificateDownloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=jmainguy&theme=chartreuse-dark" />
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/Jmainguy/Jmainguy/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/Jmainguy/Jmainguy/master/assets/linkedin-3-16.png (LinkedIn)
 
 <!-- links to your social media accounts -->
 
