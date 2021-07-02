@@ -1,6 +1,6 @@
 # Howdy!!
 
-My name is Jonathan Mainguy and I'm a Site Reliability Engineer. I'm from Garner North Carolina, and currently working at Bandwidth. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Jonathan Mainguy and I'm a Senior Platform Engineer. I'm from Garner North Carolina, and currently working at Bandwidth. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ### Linux
