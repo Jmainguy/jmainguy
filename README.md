@@ -8,11 +8,6 @@ My name is Jonathan Mainguy and I'm a Principle Engineer. I'm from Garner North 
 
 I run Fedora for my workstation, and I prefer managing RHEL and its clones for servers. I do run a debian server for limited ram environments.
 
-### Vi
-![](https://img.shields.io/badge/Editor-Vi-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-
-I code everything I do in vi. I enjoy the portability of it, and the ability to use it on a thin client ssh'd into working environment.
-
 ### Golang
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
