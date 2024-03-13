@@ -1,6 +1,6 @@
 # Howdy!!
 
-My name is Jonathan Mainguy, I'm from Garner North Carolina, and currently working at CVS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Jonathan Mainguy, I'm from Garner North Carolina. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ### Linux
