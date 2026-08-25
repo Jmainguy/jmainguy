@@ -1,107 +1,39 @@
-# Howdy!!
+# Jonathan Mainguy
 
-My name is Jonathan Mainguy, I'm from Garner North Carolina. You can find me on [![LinkedIn][3.2]][3].
+I build, host, and maintain websites, games, and open source tools from Garner, North Carolina.
 
-## 🔧 Technologies & Tools
-### Linux
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
+My life is centered on Jesus Christ, my family, open source software, and helping people become stronger leaders.
 
-I run Fedora for my workstation, and I prefer managing RHEL and its clones for servers. I do run a debian server for limited ram environments.
+[Website](https://jmainguy.com) · [Logbook](https://jmainguy.com/logbook/) · [Projects](https://jmainguy.com/projects/) · [LinkedIn](https://www.linkedin.com/in/jonathan-mainguy-76174a54/)
 
-### Golang
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+## Projects I am proud of
 
-I mainly code in golang these days, I really love the language and knowing that once I compile the binary, I can port it everywhere with ease.
+| Project | What it is |
+| --- | --- |
+| [**BaboViolent**](https://jmainguy.com/projects/baboviolent/) | The classic top-down arena shooter, ported to the browser and supported by new servers, matchmaking, moderation, and community infrastructure. [Play BaboViolent](https://baboviolent.net/) · [Web client](https://github.com/BaboViolent/baboviolent2-jsclient) |
+| [**Verbose Resume**](https://jmainguy.com/projects/verbose-resume/) | A guided resume builder that turns real work experience into a clear, useful resume. [Build a resume](https://verboseresume.com/) |
+| [**NineVoltNine**](https://jmainguy.com/projects/ninevoltnine/) | A Linux guitar pedalboard with real-time effects, terminal controls, MIDI support, and shareable YAML chains. [Open NineVoltNine](https://ninevoltnine.com/) |
+| [**soh.re**](https://jmainguy.com/projects/soh-re/) | An interactive Linux terminal in the browser, backed by isolated Kubernetes workloads and a custom routing stack. [Open a terminal](https://soh.re/) · [Isolation proxy](https://github.com/Jmainguy/isolation-proxy) · [Router](https://github.com/Jmainguy/soh-router) |
+| [**Bible Reader**](https://jmainguy.com/projects/bible-reader/) | A focused Bible reading experience with fast navigation and a clean interface. [Read the Bible](https://bible.soh.re/) |
+| [**Shoreline**](https://jmainguy.com/projects/shoreline/) | Generative coastal art shaped by wind, waves, weather, and time. [Visit Shoreline](https://shoreline.soh.re/) |
 
-One example of my golang code would be - My opensource profile website. <a href="https://soh.re">soh.re</a> which is a interactive shell session, driven by docker containers and a custom golang router.
+## What I work with
 
-<a href="https://github.com/Jmainguy/soh.re">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=soh.re&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+I spend most of my time with **Go, TypeScript, Linux, Kubernetes, Istio, containers, Helm, and GitHub Actions**. I like small operational surfaces, reproducible releases, self-hosted infrastructure, and software that people can study, improve, and share.
 
-### Python
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+This website follows the same approach. [jmainguy.com](https://jmainguy.com) is a Go application with TypeScript and Tailwind CSS, shipped as one embedded binary and deployed through the same reusable release system as my other projects.
 
-I learned python as my first "real" language with the help of the Ansible community. I learned by contributing to the project and receiving feedback from the amazing developers there. 
+## Shared delivery tooling
 
-I project I wrote in python that I am particularly fond of is bak. A way to bak files up on a local filesystem.
+I maintain reusable GitHub Actions and Helm infrastructure so projects can build, test, publish, and deploy consistently:
 
-<a href="https://github.com/Jmainguy/bak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=bak&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+- [Go release workflows](https://github.com/Jmainguy/golang-workflows)
+- [Container release workflows](https://github.com/Jmainguy/docker-workflows)
+- [Helm release workflows](https://github.com/Jmainguy/helm-workflows)
+- [Helm charts](https://github.com/Jmainguy/helm-charts)
 
-### Bash
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+## Writing
 
-Bash was my first love, and I coded a great many scripts in it over the years. My most popular github repo was mainly written in bash to manage minecraft mods for customers.
+The [Logbook](https://jmainguy.com/logbook/) collects notes from years of building systems, learning Linux, writing software, running communities, and living life with my family.
 
-<a href="https://github.com/Standouthost/multicraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Standouthost&repo=multicraft&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-### Docker
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-Docker brought containerization to the everyday developer, including me =). I really enjoy Docker for the same reason I enjoy golang. Once I package a deployment up inside a Dockerfile, I can distribute easily to many environments, and get the same results.
-
-A project I utilize for creating rpms, using docker is docker_rpmbuild. It allows me to generate rpms for multiple OS's with ease.
-
-<a href="https://github.com/Jmainguy/docker_rpmbuild">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=docker_rpmbuild&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-### Kubernetes
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
-Kubernetes, or k8s for short has become the go to way of orchestrating containers across multiple nodes. Its API is rich and fun to interact with. A tool I wrote for working with kubernetes is k8sCapCity. 
-
-k8sCapCity is used for gathering information on the usage and capacity of a kubernetes cluster.
-
-<a href="https://github.com/Jmainguy/k8scapcity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=k8scapcity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-### Openshift
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-
-Openshift is Redhats distribution of kubernetes. I use this at work on a daily basis. Openshift has a few neat quirks, one being your user in the container will be random.
-
-A deployment I wrote for openshift for deploying an arbitrary website using apache.
-
-<a href="https://github.com/Jmainguy/openshift-apache-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=openshift-apache-php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Jmainguy/Jmainguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jmainguy&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="Jonathan's GitHub Stats" />
-</a>
-
-
-## Featured Project
-
-My latest project, certificateDownloader, which is useful for trusting certs your operating system wont by default.
-
-<a href="https://github.com/Jmainguy/certificateDownloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jmainguy&repo=certificateDownloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/Jmainguy/Jmainguy/master/assets/linkedin-3-16.png (LinkedIn)
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/standouthost
-[2]: https://github.com/Jmainguy
-[3]: https://www.linkedin.com/in/jonathan-mainguy-76174a54
+Feedback and requests are welcome. Contact information is in the footer at [jmainguy.com](https://jmainguy.com).
